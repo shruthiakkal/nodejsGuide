@@ -1,0 +1,8 @@
+POST http://localhost:3000/users/write/example
+Content-Type: application/json
+
+{
+  "userName":"Andy", 
+  "PhoneNumber":"827492837497987"
+}
+
